@@ -1,1 +1,4 @@
 print("eiei")
+x = int(input())
+x += 1
+print(x)
